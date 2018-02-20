@@ -65,7 +65,7 @@ Official Website: [http://yann.lecun.com/exdb/mnist/](http://yann.lecun.com/exdb
 
 To download all the examples, simply clone this repository:
 ```
-git clone https://github.com/aymericdamien/TensorFlow-Examples
+git clone https://github.com/SrGrace/TensorFlow-Examples
 ```
 
 To run them, you also need the latest version of TensorFlow. To install it:
